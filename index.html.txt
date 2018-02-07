@@ -1,9 +1,15 @@
 <html>
+<<<<<<< HEAD
 <body>
 <h1>ְ¥ֶהְֱּצ</h1>
 
 <li>1¹ר</li>
 
+=======
+<head>ֵ¸ְֶּ²</head>
+<body>
+<header></header>
+>>>>>>> ל‹₪ם—˜
 </body>
 
 </html>
